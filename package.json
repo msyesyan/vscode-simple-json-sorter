@@ -3,6 +3,8 @@
 	"displayName": "json-sorter",
 	"description": "sort json keys recursively in alphabetical order",
 	"version": "0.0.1",
+	"publisher": "msyesyan",
+	"repository": "https://github.com/msyesyan/vscode-simple-json-sorter",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
